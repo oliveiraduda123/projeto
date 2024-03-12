@@ -46,3 +46,18 @@ h2{
    background-color: darksalmon;
    text-align: center;
 }
+
+.rodape{
+   text-align: center;
+   background-color: brown;
+   padding: 5px;
+   border-radius: 10px;
+   display: flex;
+   width: 150px;
+   align-items: left;
+   justify-content: center;
+   text-decoration: none;
+   color: aliceblue;
+   margin-top: 18%;
+
+}
